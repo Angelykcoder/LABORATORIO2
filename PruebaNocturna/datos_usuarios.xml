@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="25.0.2" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="pruebanocturna.Usuario" id="Usuario0">
+    <void class="pruebanocturna.Usuario" method="getField">
+     <string>user</string>
+     <void method="set">
+      <object idref="Usuario0"/>
+      <string>dflores</string>
+     </void>
+    </void>
+    <void class="pruebanocturna.Usuario" method="getField">
+     <string>password</string>
+     <void method="set">
+      <object idref="Usuario0"/>
+      <string>AmohacerDeriv*d*s</string>
+     </void>
+    </void>
+    <void class="pruebanocturna.Usuario" method="getField">
+     <string>nombre</string>
+     <void method="set">
+      <object idref="Usuario0"/>
+      <string>Admin dflores</string>
+     </void>
+    </void>
+    <void class="pruebanocturna.Usuario" method="getField">
+     <string>estado</string>
+     <void method="set">
+      <object idref="Usuario0"/>
+      <string>ACTIVE</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="pruebanocturna.Usuario" id="Usuario1">
+    <void class="pruebanocturna.Usuario" method="getField">
+     <string>user</string>
+     <void method="set">
+      <object idref="Usuario1"/>
+      <string>hola</string>
+     </void>
+    </void>
+    <void class="pruebanocturna.Usuario" method="getField">
+     <string>password</string>
+     <void method="set">
+      <object idref="Usuario1"/>
+      <string>Hola123456#***22</string>
+     </void>
+    </void>
+    <void class="pruebanocturna.Usuario" method="getField">
+     <string>nombre</string>
+     <void method="set">
+      <object idref="Usuario1"/>
+      <string>Prueba nuevo usuario</string>
+     </void>
+    </void>
+    <void class="pruebanocturna.Usuario" method="getField">
+     <string>estado</string>
+     <void method="set">
+      <object idref="Usuario1"/>
+      <string>ACTIVE</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="pruebanocturna.Usuario" id="Usuario2">
+    <void class="pruebanocturna.Usuario" method="getField">
+     <string>user</string>
+     <void method="set">
+      <object idref="Usuario2"/>
+      <string>memef</string>
+     </void>
+    </void>
+    <void class="pruebanocturna.Usuario" method="getField">
+     <string>password</string>
+     <void method="set">
+      <object idref="Usuario2"/>
+      <string>12345Meme***Fl</string>
+     </void>
+    </void>
+    <void class="pruebanocturna.Usuario" method="getField">
+     <string>nombre</string>
+     <void method="set">
+      <object idref="Usuario2"/>
+      <string>Manuel</string>
+     </void>
+    </void>
+    <void class="pruebanocturna.Usuario" method="getField">
+     <string>estado</string>
+     <void method="set">
+      <object idref="Usuario2"/>
+      <string>ACTIVE</string>
+     </void>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
